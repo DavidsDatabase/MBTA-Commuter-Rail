@@ -15,9 +15,8 @@ The primary dataset can be found on <https://mbta-massdot.opendata.arcgis.com/da
 
 ### Data Cleaning/Preparation
 
-1. Data loading and Joining
-2. Data Cleaning and Sorting
-3. Data Formatting and Transforming
+1. Data Cleaning and Sorting
+2. Data Formatting and Transforming
 
 ### Exploratory Data Analysis (EDA)
 
@@ -32,10 +31,10 @@ EDA was performed to answer key questions, such as, but not limited to:
 
 ### Results/Findings
 
-1. Providence/Stoughton reported to had the most boardings, 10,894,972, significantly higher than most other lines on the commuter rail. This could be that the MBTA does not reach this stop via their other services. Customers may be looking to use the commuter rail to travel to and from Boston or anywhere near the area.
+1. Providence/Stoughton reported to had the most boardings, 10,894,972, significantly higher than most other lines on the commuter rail. This could be that the MBTA does not reach this stop via their other services. Many customers may be looking to use the commuter rail to travel to and from Boston or anywhere near the area.
 2. There was an exponential growth in riders from years 2020 to 2023. Even though half the data from 2020 were not factored in, we found that the growth was exponentially significant. A reason for this could be from Covid. 2020 was a year that riders seemed to be comfortable taking public transportation as opposed to the previous year 2019. As the years went on, more and more returning riders came back to the commuter rail.
-3. The number of riders from each month were spread evenly throughout the year of 2023. However, it appeaqrs that January and Febuary were the only 2 months that fell a bit short compared to the others. This could be weather related.
-4. Percentage Increases gew significantly from 2020 to 2021, again, probably due to post Covid season which enticed returning customers to board the commuter rail. From 2021 to 2022, the growth is still pretty significant. However, between the years of 2022 to 2023, the growth is starting to become stagnant as the number of boarders begin to plateau. 
+3. The number of riders from each month were spread evenly throughout the year of 2023. However, it appears that January and Febuary were the only 2 months that fell a bit short compared to the others. This could be weather related. Winter season could infer that less customers were willing to travel. Commuter rail could face delay issues due to the weather.
+4. Ridership percentage increased significantly from 2020 to 2021, again, probably due to post Covid season which enticed returning customers to board the commuter rail. From 2021 to 2022, the growth is still pretty significant; however, between the years of 2022 to 2023, the growth is starting to become stagnant as the number of boarders begin to plateau. 
 
 ### Recommendations
 
